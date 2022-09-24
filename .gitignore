@@ -1,0 +1,6 @@
+# Project exclude paths
+/console/target/
+/controller/target/
+/model/target/
+/service/target/
+/web/target/
